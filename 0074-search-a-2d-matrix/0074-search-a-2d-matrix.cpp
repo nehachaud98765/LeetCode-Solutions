@@ -9,10 +9,12 @@ public:
 
         while(start <= end){
             int mid = start+(end-start)/2;
-            if(matrix[mid/col][mid%col] > target){
+            int r = mid/col;
+            int c = mid % col;
+            if(matrix[r][c] > target){
                 end = mid-1;
             }
-            else if(matrix[mid/col][mid%col] < target){
+            else if(matrix[r][c] < target){
                 start = mid+1;
             }
             else{
