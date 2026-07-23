@@ -10,6 +10,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nehachaud98765/LeetCode-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0031-next-permutation](https://github.com/nehachaud98765/LeetCode-Solutions/tree/main/0031-next-permutation/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/nehachaud98765/LeetCode-Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0088-merge-sorted-array](https://github.com/nehachaud98765/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0136-single-number](https://github.com/nehachaud98765/LeetCode-Solutions/tree/main/0136-single-number/) | Easy |
@@ -42,6 +43,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nehachaud98765/LeetCode-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0031-next-permutation](https://github.com/nehachaud98765/LeetCode-Solutions/tree/main/0031-next-permutation/) | Medium |
 | [0088-merge-sorted-array](https://github.com/nehachaud98765/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
