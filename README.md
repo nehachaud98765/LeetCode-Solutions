@@ -91,9 +91,22 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0079-word-search](https://github.com/nehachaud98765/LeetCode-Solutions/tree/main/0079-word-search/) | Medium |
+| [0144-binary-tree-preorder-traversal](https://github.com/nehachaud98765/LeetCode-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/nehachaud98765/LeetCode-Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/nehachaud98765/LeetCode-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/nehachaud98765/LeetCode-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/nehachaud98765/LeetCode-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/nehachaud98765/LeetCode-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 <!---LeetCode Topics End-->
