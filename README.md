@@ -21,6 +21,7 @@
 | [0169-majority-element](https://github.com/nehachaud98765/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/nehachaud98765/LeetCode-Solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/nehachaud98765/LeetCode-Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/nehachaud98765/LeetCode-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/nehachaud98765/LeetCode-Solutions/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/nehachaud98765/LeetCode-Solutions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Hash Table
@@ -30,6 +31,7 @@
 | [0073-set-matrix-zeroes](https://github.com/nehachaud98765/LeetCode-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0169-majority-element](https://github.com/nehachaud98765/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/nehachaud98765/LeetCode-Solutions/tree/main/0229-majority-element-ii/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/nehachaud98765/LeetCode-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/nehachaud98765/LeetCode-Solutions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -93,4 +95,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/nehachaud98765/LeetCode-Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/nehachaud98765/LeetCode-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 <!---LeetCode Topics End-->
