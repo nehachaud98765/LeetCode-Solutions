@@ -11,6 +11,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nehachaud98765/LeetCode-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0027-remove-element](https://github.com/nehachaud98765/LeetCode-Solutions/tree/main/0027-remove-element/) | Easy |
 | [0031-next-permutation](https://github.com/nehachaud98765/LeetCode-Solutions/tree/main/0031-next-permutation/) | Medium |
 | [0042-trapping-rain-water](https://github.com/nehachaud98765/LeetCode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0054-spiral-matrix](https://github.com/nehachaud98765/LeetCode-Solutions/tree/main/0054-spiral-matrix/) | Medium |
@@ -61,6 +62,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nehachaud98765/LeetCode-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0027-remove-element](https://github.com/nehachaud98765/LeetCode-Solutions/tree/main/0027-remove-element/) | Easy |
 | [0031-next-permutation](https://github.com/nehachaud98765/LeetCode-Solutions/tree/main/0031-next-permutation/) | Medium |
 | [0042-trapping-rain-water](https://github.com/nehachaud98765/LeetCode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0088-merge-sorted-array](https://github.com/nehachaud98765/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
