@@ -40,6 +40,7 @@
 | [0073-set-matrix-zeroes](https://github.com/nehachaud98765/LeetCode-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0169-majority-element](https://github.com/nehachaud98765/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/nehachaud98765/LeetCode-Solutions/tree/main/0229-majority-element-ii/) | Medium |
+| [0242-valid-anagram](https://github.com/nehachaud98765/LeetCode-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0496-next-greater-element-i](https://github.com/nehachaud98765/LeetCode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/nehachaud98765/LeetCode-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/nehachaud98765/LeetCode-Solutions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
@@ -55,6 +56,7 @@
 | [0088-merge-sorted-array](https://github.com/nehachaud98765/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/nehachaud98765/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/nehachaud98765/LeetCode-Solutions/tree/main/0229-majority-element-ii/) | Medium |
+| [0242-valid-anagram](https://github.com/nehachaud98765/LeetCode-Solutions/tree/main/0242-valid-anagram/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -101,6 +103,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/nehachaud98765/LeetCode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0079-word-search](https://github.com/nehachaud98765/LeetCode-Solutions/tree/main/0079-word-search/) | Medium |
 | [0125-valid-palindrome](https://github.com/nehachaud98765/LeetCode-Solutions/tree/main/0125-valid-palindrome/) | Easy |
+| [0242-valid-anagram](https://github.com/nehachaud98765/LeetCode-Solutions/tree/main/0242-valid-anagram/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
