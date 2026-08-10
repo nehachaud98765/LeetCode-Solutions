@@ -106,6 +106,7 @@
 | [0125-valid-palindrome](https://github.com/nehachaud98765/LeetCode-Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/nehachaud98765/LeetCode-Solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0242-valid-anagram](https://github.com/nehachaud98765/LeetCode-Solutions/tree/main/0242-valid-anagram/) | Easy |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/nehachaud98765/LeetCode-Solutions/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -131,6 +132,7 @@
 | [0042-trapping-rain-water](https://github.com/nehachaud98765/LeetCode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/nehachaud98765/LeetCode-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0496-next-greater-element-i](https://github.com/nehachaud98765/LeetCode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/nehachaud98765/LeetCode-Solutions/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -149,6 +151,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/nehachaud98765/LeetCode-Solutions/tree/main/0054-spiral-matrix/) | Medium |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/nehachaud98765/LeetCode-Solutions/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
