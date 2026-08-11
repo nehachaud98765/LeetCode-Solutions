@@ -10,13 +10,13 @@ public:
         }
 
         for(int i=0; i<=m-n; i++){
-          string substring = s2.substr(i,n);
+            string substring = s2.substr(i,n);
 
-          sort(begin(substring), end(substring));
+            sort(begin(substring), end(substring));
 
-          if(s1 == substring){
-            return true;
-          }
+            if(s1 == substring){
+                return true;
+            }
         }
 
         return false;
