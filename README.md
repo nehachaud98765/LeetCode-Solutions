@@ -74,6 +74,7 @@
 | [0125-valid-palindrome](https://github.com/nehachaud98765/LeetCode-Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/nehachaud98765/LeetCode-Solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/nehachaud98765/LeetCode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0443-string-compression](https://github.com/nehachaud98765/LeetCode-Solutions/tree/main/0443-string-compression/) | Medium |
 | [0567-permutation-in-string](https://github.com/nehachaud98765/LeetCode-Solutions/tree/main/0567-permutation-in-string/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -108,6 +109,7 @@
 | [0125-valid-palindrome](https://github.com/nehachaud98765/LeetCode-Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/nehachaud98765/LeetCode-Solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0242-valid-anagram](https://github.com/nehachaud98765/LeetCode-Solutions/tree/main/0242-valid-anagram/) | Easy |
+| [0443-string-compression](https://github.com/nehachaud98765/LeetCode-Solutions/tree/main/0443-string-compression/) | Medium |
 | [0567-permutation-in-string](https://github.com/nehachaud98765/LeetCode-Solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/nehachaud98765/LeetCode-Solutions/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 ## Sliding Window
