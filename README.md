@@ -10,6 +10,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/nehachaud98765/LeetCode-Solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nehachaud98765/LeetCode-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/nehachaud98765/LeetCode-Solutions/tree/main/0027-remove-element/) | Easy |
 | [0031-next-permutation](https://github.com/nehachaud98765/LeetCode-Solutions/tree/main/0031-next-permutation/) | Medium |
@@ -105,6 +106,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nehachaud98765/LeetCode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0014-longest-common-prefix](https://github.com/nehachaud98765/LeetCode-Solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0079-word-search](https://github.com/nehachaud98765/LeetCode-Solutions/tree/main/0079-word-search/) | Medium |
 | [0125-valid-palindrome](https://github.com/nehachaud98765/LeetCode-Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/nehachaud98765/LeetCode-Solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
@@ -179,4 +181,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/nehachaud98765/LeetCode-Solutions/tree/main/0239-sliding-window-maximum/) | Hard |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/nehachaud98765/LeetCode-Solutions/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
