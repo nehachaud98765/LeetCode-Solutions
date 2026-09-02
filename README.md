@@ -35,6 +35,7 @@
 | [0496-next-greater-element-i](https://github.com/nehachaud98765/LeetCode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/nehachaud98765/LeetCode-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0704-binary-search](https://github.com/nehachaud98765/LeetCode-Solutions/tree/main/0704-binary-search/) | Easy |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/nehachaud98765/LeetCode-Solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/nehachaud98765/LeetCode-Solutions/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/nehachaud98765/LeetCode-Solutions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Hash Table
@@ -101,6 +102,7 @@
 | [0287-find-the-duplicate-number](https://github.com/nehachaud98765/LeetCode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0374-guess-number-higher-or-lower](https://github.com/nehachaud98765/LeetCode-Solutions/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0704-binary-search](https://github.com/nehachaud98765/LeetCode-Solutions/tree/main/0704-binary-search/) | Easy |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/nehachaud98765/LeetCode-Solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
