@@ -37,6 +37,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/nehachaud98765/LeetCode-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0704-binary-search](https://github.com/nehachaud98765/LeetCode-Solutions/tree/main/0704-binary-search/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/nehachaud98765/LeetCode-Solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/nehachaud98765/LeetCode-Solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/nehachaud98765/LeetCode-Solutions/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/nehachaud98765/LeetCode-Solutions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Hash Table
@@ -67,6 +68,7 @@
 | [0169-majority-element](https://github.com/nehachaud98765/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/nehachaud98765/LeetCode-Solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/nehachaud98765/LeetCode-Solutions/tree/main/0242-valid-anagram/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/nehachaud98765/LeetCode-Solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -85,6 +87,7 @@
 | [0287-find-the-duplicate-number](https://github.com/nehachaud98765/LeetCode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0443-string-compression](https://github.com/nehachaud98765/LeetCode-Solutions/tree/main/0443-string-compression/) | Medium |
 | [0567-permutation-in-string](https://github.com/nehachaud98765/LeetCode-Solutions/tree/main/0567-permutation-in-string/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/nehachaud98765/LeetCode-Solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -105,6 +108,7 @@
 | [0374-guess-number-higher-or-lower](https://github.com/nehachaud98765/LeetCode-Solutions/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0704-binary-search](https://github.com/nehachaud98765/LeetCode-Solutions/tree/main/0704-binary-search/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/nehachaud98765/LeetCode-Solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/nehachaud98765/LeetCode-Solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
