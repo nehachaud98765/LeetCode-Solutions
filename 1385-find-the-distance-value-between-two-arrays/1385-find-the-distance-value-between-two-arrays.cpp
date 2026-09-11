@@ -5,27 +5,22 @@ public:
         int m = arr2.size();
         int count = 0;
 
-        for(int i=0; i<n; i++){
-           int x = arr1[i];
-           bool isvalid = true;
+        for(int i =0; i<n; i++){
+            int x = arr1[i];
+            bool isvalid = true;
+            for(int j=0; j<m; j++){
+                int y = arr2[j];
+                int diff = abs(x-y);
 
-
-           for(int j=0; j<m; j++){
-            int y = arr2[j];
-            int difference = abs(x-y);
-
-            if(difference <= d){
-                isvalid = false;
-                break;
+                if(diff <= d){
+                    isvalid = false;
+                    break;
+                }
+            
             }
-
-           }
-
-           if(isvalid == true){
+            if(isvalid == true)
             count++;
-           }
         }
-
         return count;
     }
 };
